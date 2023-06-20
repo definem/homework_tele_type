@@ -5,7 +5,7 @@ Part-1
 <br>
 https://teletype.in/@definem/questions_answers
 
-part-2
+Part-2
 <br>
 https://teletype.in/@definem/questions_answers2
 
