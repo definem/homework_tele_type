@@ -1,5 +1,5 @@
 # homework_teleType
-link:
+Link:
 
 part-1
 <br>
