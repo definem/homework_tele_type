@@ -12,3 +12,5 @@ https://teletype.in/@definem/questions_answers2
 Part-3
 <br>
 https://teletype.in/@definem/questions_answers3
+
+_writing comment and putting reaction is free :)_
