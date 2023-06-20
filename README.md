@@ -1,4 +1,4 @@
-# Homework from teleType
+# Homework from TeleType.
 Link:
 
 Part-1
