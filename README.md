@@ -9,6 +9,6 @@ Part-2
 <br>
 https://teletype.in/@definem/questions_answers2
 
-part-3
+Part-3
 <br>
 https://teletype.in/@definem/questions_answers3
