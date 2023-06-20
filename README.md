@@ -1,7 +1,7 @@
 # homework_teleType
 Link:
 
-part-1
+Part-1
 <br>
 https://teletype.in/@definem/questions_answers
 
