@@ -1,15 +1,15 @@
 # Homework from TeleType.
 Link:
 
-Part-1
+<b>Part-1</br>
 <br>
 https://teletype.in/@definem/questions_answers
 
-Part-2
+<b>Part-2</br>
 <br>
 https://teletype.in/@definem/questions_answers2
 
-Part-3
+<b>Part-3</br>
 <br>
 https://teletype.in/@definem/questions_answers3
 
