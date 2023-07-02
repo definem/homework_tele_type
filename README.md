@@ -13,4 +13,4 @@ Part-3
 <br>
 https://teletype.in/@definem/questions_answers3
 
-_ Writing comment and putting reaction is free :) _
+ Writing comment and putting reaction is free :) 
